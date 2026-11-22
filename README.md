@@ -3,15 +3,19 @@
 Portfolio for Agentic Software Engineering and Responsible AI
 
 Course: CPELX230-330
+
 Term: Term 2, Academic Year 2026–2027
+
 Student: Quilon, Jerrime C.
 
 Course Introduction
+
 Agentic Software Engineering and Responsible AI is a course that focuses on understanding how artificial intelligence can help in developing software systems. It also teaches the importance of using AI responsibly, protecting information, and making sure that technology is safe and helpful to people.
 
 As a Computer Engineering student, I see this course as an opportunity to learn more about how AI works and how it can be applied to real-world situations.
 
 Personal Learning Goals
+
 Through this course, I hope to:
 
 - To understand the basic concepts of Agentic Software Engineering.
