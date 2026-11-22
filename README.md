@@ -14,11 +14,11 @@ As a Computer Engineering student, I see this course as an opportunity to learn 
 Personal Learning Goals
 Through this course, I hope to:
 
-To understand the basic concepts of Agentic Software Engineering.
-To learn how AI agents work and how they differ from traditional applications.
-To improve my skills in using GitHub and other software development tools.
-To understand the importance of teamwork and Agile methods.
-To learn how to use AI safely, responsibly, and ethically.
+- To understand the basic concepts of Agentic Software Engineering.
+- To learn how AI agents work and how they differ from traditional applications.
+-To improve my skills in using GitHub and other software development tools.
+-To understand the importance of teamwork and Agile methods.
+-To learn how to use AI safely, responsibly, and ethically.
 
 Reflection from Part A
 
